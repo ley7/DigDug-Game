@@ -1,0 +1,2 @@
+We, Le Yu and Aaron Catarroja, hereby certify that the ﬁles we submitted represent our own work, that we did not copy any code from any other person or source, and that we did not share our code with any other students.
+NOTE: It is acceptable to use code you ﬁnd in the Android or Java APIs.
